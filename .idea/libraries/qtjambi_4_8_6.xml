@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="qtjambi-4.8.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/qtjambi-4.8.6.1-linux64/qtjambi-4.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/qtjambi-4.8.6.1-linux64/qtjambi-designer-4.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/qtjambi-4.8.6.1-linux64/qtjambi-examples-4.8.6.jar!/" />
+      <root url="file://$PROJECT_DIR$/../lib/qtjambi-4.8.6.1-linux64" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../lib/qtjambi-4.8.6.1-linux64" recursive="false" />
+  </library>
+</component>
